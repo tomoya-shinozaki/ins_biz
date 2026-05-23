@@ -1,0 +1,9 @@
+# Obsidian / Cursor 個人環境（共有しない）
+92_obcidian/**/.obsidian/
+92_obcidian/**/.cursor/
+92_obcidian/**/Cursor_FB/
+92_obcidian/**/*FB.md
+92_obcidian/**/_templates/
+
+# Excel ロックファイル
+~$*
